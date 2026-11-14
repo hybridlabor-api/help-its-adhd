@@ -2,6 +2,7 @@
   <img src="./logo2.png" alt="i-have-adhd" width="196" />
 </p>
 <p align="center">
+  <h1>help-its-adhd</h1>
   <strong>Zero-Fluff LLM Outputs. High Signal, Zero Noise.</strong>
   <strong>For any bot or harness,that talks to much.</strong>
 
